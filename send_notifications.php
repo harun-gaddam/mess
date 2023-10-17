@@ -1,10 +1,11 @@
 <?php
 
 // Set your FCM server key
-$serverKey = 'YOUR_SERVER_KEY';
+$serverKey = 'BH-J9owr7wiqPf7KsO6qoGaa_ZSpKMXS6OtjxhqP92bBxFPTU-tZNissGpcdNvehLPDdcnCTcANcBapaaSWJ4YA
+';
 
 // Set your Sender ID
-$senderId = 'YOUR_SENDER_ID';
+$senderId = '438622363688';
 
 // Define the notification payload
 $message = [
