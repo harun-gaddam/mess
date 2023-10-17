@@ -3,7 +3,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $feedback = $_POST['feedback'];
 
     // Define your Google Sheets API credentials and spreadsheet ID
-    $credentials = '/Users/harun/code/mess/mess-402315-3c30e3670f90.json'; // Path to your credentials file
+    $credentials = '/mess-402315-3c30e3670f90.json'; // Path to your credentials file
     $spreadsheetId = '101598037508472573796'; // Replace with your spreadsheet ID
 
     // Load Google Sheets API library
